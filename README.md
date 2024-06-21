@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **React and Machine Learning**
 
-- 💬 Ask me about **Web Development or Machine Learning**
+- 🔭 Currently diving deep into **Machine Learning Algorithms and Web development Frameworks**.
+
+- - 💬 Ask me about **Web Development or Machine Learning**
 
 - 📫 You can reach me at **jain.hemang55@gmail.com**
 
